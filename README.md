@@ -9,6 +9,12 @@ We are presenting the project as a poster at GGC's 27th CREATES Conference on No
 ![Live attack map and counters from our Kibana dashboard](images/kibana-live-attack-map.png)
 *Live view from the dashboard: 180,939 attacks in the last day and 47,471 in the last hour.*
 
+## Demo video
+
+[![Watch the Project HIVE demo](images/project-hive-thumbnail.png)](https://youtu.be/4S7Jw_Ex95c)
+
+*Click the image to watch the demo on YouTube: the live attack map, AI scoring, and the Kibana dashboard.*
+
 ## At a glance
 
 | Area | Details |
